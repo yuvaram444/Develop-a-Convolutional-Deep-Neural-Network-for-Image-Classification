@@ -9,7 +9,8 @@ Image classification is a fundamental task in computer vision where an input ima
 
 ## Neural Network Model
 
-![alt text](img/nnm.png)
+<img width="1263" height="879" alt="image" src="https://github.com/user-attachments/assets/fe310c9c-183c-4003-b567-5502799a9e32" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -286,27 +287,33 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-![alt text](img/epoch.png)
+<img width="635" height="186" alt="image" src="https://github.com/user-attachments/assets/23141e1b-88ab-4026-b616-80da9eac85d0" />
+
 
 ## Accuracy
 
-![alt text](img/accuracy.png)
+<img width="474" height="57" alt="image" src="https://github.com/user-attachments/assets/8d38d96c-fc3a-4eb8-9d25-791bd878fc08" />
+
 
 ## Confusion Matrix
 
-![alt text](<img/confusion matrix.png>)
+<img width="1061" height="950" alt="image" src="https://github.com/user-attachments/assets/05425874-fd41-45d3-b20f-637fe21406ac" />
+
 
 ## Classification Report
 
-![alt text](<img/classification report.png>)
+<img width="839" height="530" alt="image" src="https://github.com/user-attachments/assets/6a638414-d2f8-40a9-ac49-affa67497315" />
+
 
 ## summary
 
-![alt text](img/summary.png)
+<img width="818" height="653" alt="image" src="https://github.com/user-attachments/assets/e3a0f623-bb0f-475c-8de9-3f130eca708c" />
+
 
 ### New Sample Data Prediction
 
-![alt text](<img/new predicted sample data.png>)
+<img width="484" height="511" alt="image" src="https://github.com/user-attachments/assets/05a2f452-ad78-4875-9b12-53e10366bdae" />
+
 
 ## RESULT
 
