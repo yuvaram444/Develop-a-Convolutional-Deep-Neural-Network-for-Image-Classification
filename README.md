@@ -263,7 +263,7 @@ def predict_image(model, image_index, dataset):
     with torch.no_grad():
         image = image.to(device)
         output = model(image.unsqueeze(0))  # Add batch dimension
-        _, predicted = torch.max(output, 1)
+        _, predicted = torch.max(output, 1) #The maximum function return the index of the maxmum value in the list of 10 numbers in the output
 
     class_names = dataset.classes
 
